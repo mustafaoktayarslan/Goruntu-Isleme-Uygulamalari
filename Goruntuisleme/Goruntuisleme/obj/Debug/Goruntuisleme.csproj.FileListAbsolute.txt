@@ -1,0 +1,13 @@
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe.config
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.GenerateResource.cache
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.exe
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.pdb
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.AssemblyReference.cache
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.AnaEkran.resources
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Histogram.resources
+C:\Users\OKTAY\Desktop\goruntu\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.YuksekGecirgen.resources

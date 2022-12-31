@@ -1,0 +1,12 @@
+Projede 25 adet algoritma bulunmaktadır.
+
+Filtre Bilgileri;
+
+Filtreleme işlemleri: Negatif alma, Parlakllık, Grileştirme, Kontrast, Eşikleme, Histogram eşitleme
+Gürültü azaltmak için: Mean, Median, Gaus Filtreleri
+Kenarları bulma işlemleri: Prewit,Sobel,Laplacian Filtreleri
+Morfolojik işlemler: Dilation, Erosion
+Geometrik İşlemler: Açılı Döndürme, Ters Çevirme Aynalama,Yakınlaştırma,Uzaklaştırma, Öteleme, Perspektif Düzeltme Şeklindedir.
+
+
+Proje Algoritmaları öğrenmek ve geliştirmek amaçlı yapılmıştır bu yüzden dosya düzenleri çok önemsenmemiştir.
